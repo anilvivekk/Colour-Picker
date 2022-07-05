@@ -1,0 +1,18 @@
+.color-box {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: inline-flex;
+  margin: 10px;
+  border: 1px solid;
+}
+.box {
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  margin: 40px;
+  color: #333;
+  text-align: center;
+  text-justify: bottom;
+  font-size: 20px;
+}
